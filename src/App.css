@@ -1,0 +1,8 @@
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #F0F4F9;
+  overflow-x: hidden;
+  font-family: 'Poppins', sans-serif;
+}
